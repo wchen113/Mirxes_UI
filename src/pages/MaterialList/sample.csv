@@ -1,0 +1,318 @@
+name,bpCode,id,parentId
+GASTROClyr Pack 1 of 3 - Assay,DF07-0001,1,
+"Label, Label A, Die-cut, Matte PP, 4 x 3, 3"" core, 1000 pc/roll",21600012,2,1
+"Box, for Pack 1, BF Flute, White, 230 x 220 x 160 mm, for GC",21500111,3,1
+"Insert, for Pack 1, EF Flute, 150 x 70 x 40 mm, for GC",21500141,4,1
+"GC Packing List, Pack 1",21200161,5,1
+GC Wash Buffer A,23400111,6,1
+"Label, Label F, Die-cut, Matte PP/Foil PP on back, 4 � 47 mm, 3"" core, 1000 pc/roll",21600062,7,6
+"Label, Label K, Die-cut, Matte PP/Foil PP on back, 2.5 cm, 1000 pc/roll",21600111,8,6
+"Reagent, RWT Buffer, Qiagen, 15 ml",21400151,9,6
+GC Wash Buffer B,23400101,10,1
+"Label, Label G, Die-cut, Matte PP/Foil PP on back, 4 � 47 mm, 3"" core, 1000 pc/roll",21600072,11,10
+"Label, Label L, Die-cut, Matte PP/Foil PP on back, 2.5 cm, 1000 pc/roll",21600121,12,10
+"Reagent, RPE Buffer, Qiagen, 11 ml",21400161,13,10
+GC Elution Solution,23400071,14,1
+"Label, Label I, Die-cut, Matte PP/Foil PP on back, 2.8 � 29 mm, 3"" core, 1000 pc/roll",21600092,15,14
+"Label, Label M, Die-cut, Matte PP/Foil PP on back, 2 cm, 1000 pc/roll",21600131,16,14
+"Reagent, RNAse-free Water, Qiagen, 10 ml",21400171,17,14
+GC Spin Columns,23400061,18,1
+"Label, Label D, Die-cut, Matte PP, 3.5 � 2, 3"" core, 1000 pc/roll",21600042,19,18
+"Label, Label J, Die-cut, Matte Silver Polyester, 18 cm � 13 cm, per pc/roll",21600101,20,18
+"Bag, Resealable, 7 x 10, Pack of 100",21500081,21,18
+"Reagent, Rneasy MinElute Spin Columns, Qiagen, 10 pieces",21400131,22,18
+GC RNA Storage Tubes,23400081,23,1
+"Label, Label G, Die-cut, Matte PP/Foil PP on back, 4 � 47 mm, 3"" core, 1000 pc/roll",21600072,24,23
+"Reagent, Collection Tubes (1.5 ml), Qiagen, Pack of 50",21400181,25,23
+GC Elution Tubes,23400091,26,1
+"Label, Label G, Die-cut, Matte PP/Foil PP on back, 4 � 47 mm, 3"" core, 1000 pc/roll",21600072,27,26
+"Reagent, Collection Tubes (2 ml), Qiagen, Pack of 50",21400191,28,26
+GC Optical Seal,23400181,29,1
+"Label, Label D, Die-cut, Matte PP, 3.5 � 2, 3"" core, 1000 pc/roll",21600042,30,29
+"Bag, Resealable, for PCR Seal, 4 x 6, Pack of 100",21500091,31,29
+"Plate Seal, Adhesive, Optical, Bioplastics, Pack of 100",21100181,32,29
+GC 24-well Plate,23400191,33,1
+"Label, Label D, Die-cut, Matte PP, 3.5 � 2, 3"" core, 1000 pc/roll",21600042,34,33
+"Bag, Nuclease-free, Twist seal, 450 ml",21100231,35,33
+"Plate, 24-well, Bioplastics, for RT, Pack of 100",21100161,36,33
+GC RT 8-cap Strip,23400201,37,1
+"Label, Label D, Die-cut, Matte PP, 3.5 � 2, 3"" core, 1000 pc/roll",21600042,38,37
+"Bag, Nuclease-free, Twist seal, 450 ml",21100231,39,37
+"Cap, 8-strip, Optical, Bioplastics, for RT, Pack of 120",21100171,40,37
+GC Assay Plate,23400121,41,1
+"Label, Label D, Die-cut, Matte PP, 3.5 � 2, 3"" core, 1000 pc/roll",21600042,42,41
+"Plate, 384-Well, Frosted, ABI",11300051,43,41
+"Reagent, PCR Oligo, Level 3, Gene 1F-12R, 100 �M, 67 �l",22900381,44,41
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,45,44
+"Cap, 12-strip, Natural, Bioplastics, Pack of 80",21100101,46,44
+"PCR 12-strip, Bioplastics, Pack of 80",21100091,47,44
+"Reagent, Oligo, Gene 1F, Level 2, 200 mM, 272 �l",22900012,48,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,49,48
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,50,48
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,51,48
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,52,48
+"Reagent, Oligo, Gene 1F, Level 1, 2 mM, 250�l",22900011,53,48
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,54,53
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,55,54
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,56,54
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,57,54
+"Reagent, Oligo, Gene 1F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900011,58,54
+"Reagent, Oligo, Gene 1R, Level 2, 200 mM, 272 �l",22900132,59,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,60,59
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,61,60
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,62,60
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,63,60
+"Reagent, Oligo, Gene 1R, Level 1, 2 mM, 250�l",22900131,64,60
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,65,64
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,66,64
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,67,64
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,68,64
+"Reagent, Oligo, Gene 1R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900131,69,64
+"Reagent, Oligo, Gene 2F, Level 2, 200 mM, 272 �l",22900022,70,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,71,70
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,72,70
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,73,70
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,74,70
+"Reagent, Oligo, Gene 2F, Level 1, 2 mM, 250�l",22900021,75,70
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,76,75
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,77,75
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,78,75
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,79,75
+"Reagent, Oligo, Gene 2F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900021,80,75
+"Reagent, Oligo, Gene 2R, Level 2, 200 mM, 272 �l",22900142,81,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,82,81
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,83,81
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,84,81
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,85,81
+"Reagent, Oligo, Gene 2R, Level 1, 2 mM, 250�l",22900141,86,81
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,87,81
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,88,81
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,89,81
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,90,81
+"Reagent, Oligo, Gene 2R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900141,91,81
+"Reagent, Oligo, Gene 3F, Level 2, 200 mM, 272 �l",22900032,92,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,93,92
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,94,92
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,95,92
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,96,92
+"Reagent, Oligo, Gene 3F, Level 1, 2 mM, 250�l",22900031,97,92
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,98,97
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,99,98
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,100,98
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,101,98
+"Reagent, Oligo, Gene 3F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900031,102,98
+"Reagent, Oligo, Gene 3R, Level 2, 200 mM, 272 �l",22900152,103,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,104,103
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,105,103
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,106,103
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,107,103
+"Reagent, Oligo, Gene 3R, Level 1, 2 mM, 250�l",22900151,108,103
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,109,108
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,110,108
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,111,108
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,112,108
+"Reagent, Oligo, Gene 3R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900151,113,108
+"Reagent, Oligo, Gene 4F, Level 2, 200 mM, 272 �l",22900042,114,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,115,114
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,116,114
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,117,114
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,118,114
+"Reagent, Oligo, Gene 4F, Level 1, 2 mM, 250�l",22900041,119,114
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,120,119
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,121,119
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,122,119
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,123,119
+"Reagent, Oligo, Gene 4F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900041,124,119
+"Reagent, Oligo, Gene 4R, Level 2, 200 mM, 272 �l",22900162,125,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,126,125
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,127,125
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,128,125
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,129,125
+"Reagent, Oligo, Gene 4R, Level 1, 2 mM, 250�l",22900161,130,125
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,131,130
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,132,130
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,133,130
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,134,130
+"Reagent, Oligo, Gene 4R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900161,135,130
+"Reagent, Oligo, Gene 5F, Level 2, 200 mM, 272 �l",22900052,136,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,137,136
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,138,136
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,139,136
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,140,136
+"Reagent, Oligo, Gene 5F, Level 1, 2 mM, 250�l",22900051,141,136
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,142,141
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,143,141
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,144,141
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,145,141
+"Reagent, Oligo, Gene 5F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900051,146,141
+"Reagent, Oligo, Gene 5R, Level 2, 200 mM, 272 �l",22900172,147,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,148,147
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,149,147
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,150,147
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,151,147
+"Reagent, Oligo, Gene 5R, Level 1, 2 mM, 250�l",22900171,152,147
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,153,152
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,154,152
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,155,152
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,156,152
+"Reagent, Oligo, Gene 5R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900171,157,152
+"Reagent, Oligo, Gene 6F, Level 2, 200 mM, 272 �l",22900062,158,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,159,158
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,160,158
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,161,158
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,162,158
+"Reagent, Oligo, Gene 6F, Level 1, 2 mM, 250�l",22900061,163,158
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,164,163
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,165,163
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,166,163
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,167,163
+"Reagent, Oligo, Gene 6F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900061,168,163
+"Reagent, Oligo, Gene 6R, Level 2, 200 mM, 272 �l",22900182,169,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,170,169
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,171,169
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,172,169
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,173,169
+"Reagent, Oligo, Gene 6R, Level 1, 2 mM, 250�l",22900181,174,169
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,175,174
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,176,174
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,177,174
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,178,174
+"Reagent, Oligo, Gene 6R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900181,179,174
+"Reagent, Oligo, Gene 7F, Level 2, 200 mM, 272 �l",22900072,180,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,181,180
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,182,180
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,183,180
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,184,180
+"Reagent, Oligo, Gene 7F, Level 1, 2 mM, 250�l",22900071,185,180
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,186,185
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,187,185
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,188,185
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,189,185
+"Reagent, Oligo, Gene 7F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900071,190,185
+"Reagent, Oligo, Gene 7R, Level 2, 200 mM, 272 �l",22900192,191,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,192,191
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,193,191
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,194,191
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,195,191
+"Reagent, Oligo, Gene 7R, Level 1, 2 mM, 250�l",22900191,196,191
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,197,196
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,198,196
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,199,196
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,200,196
+"Reagent, Oligo, Gene 7R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900191,201,196
+"Reagent, Oligo, Gene 8F, Level 2, 200 mM, 272 �l",22900082,202,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,203,202
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,204,202
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,205,202
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,206,202
+"Reagent, Oligo, Gene 8F, Level 1, 2 mM, 250�l",22900081,207,202
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,208,207
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,209,207
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,210,207
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,211,207
+"Reagent, Oligo, Gene 8F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900081,212,207
+"Reagent, Oligo, Gene 8R, Level 2, 200 mM, 272 �l",22900202,213,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,214,213
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,215,213
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,216,213
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,217,213
+"Reagent, Oligo, Gene 8R, Level 1, 2 mM, 250�l",22900201,218,213
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,219,218
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,220,218
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,221,218
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,222,218
+"Reagent, Oligo, Gene 8R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900201,223,218
+"Reagent, Oligo, Gene 9F, Level 2, 200 mM, 272 �l",22900092,224,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,225,224
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,226,224
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,227,224
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,228,224
+"Reagent, Oligo, Gene 9F, Level 1, 2 mM, 250�l",22900091,229,224
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,230,229
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,231,229
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,232,229
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,233,229
+"Reagent, Oligo, Gene 9F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900091,234,229
+"Reagent, Oligo, Gene 9R, Level 2, 200 mM, 272 �l",22900212,235,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,236,235
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,237,235
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,238,235
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,239,235
+"Reagent, Oligo, Gene 9R, Level 1, 2 mM, 250�l",22900211,240,235
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,241,240
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,242,240
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,243,240
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,244,240
+"Reagent, Oligo, Gene 9R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900211,245,240
+"Reagent, Oligo, Gene 10F, Level 2, 200 mM, 272 �l",22900102,246,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,247,246
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,248,246
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,249,246
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,250,246
+"Reagent, Oligo, Gene 10F, Level 1, 2 mM, 250�l",22900101,251,246
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,252,251
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,253,251
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,254,251
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,255,251
+"Reagent, Oligo, Gene 10F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900101,256,251
+"Reagent, Oligo, Gene 10R, Level 2, 200 mM, 272 �l",22900222,257,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,258,257
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,259,257
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,260,257
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,261,257
+"Reagent, Oligo, Gene 10R, Level 1, 2 mM, 250�l",22900221,262,257
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,263,262
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,264,262
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,265,262
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,266,262
+"Reagent, Oligo, Gene 10R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900221,267,262
+"Reagent, Oligo, Gene 11F, Level 2, 200 mM, 272 �l",22900112,268,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,269,268
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,270,268
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,271,268
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,272,268
+"Reagent, Oligo, Gene 11F, Level 1, 2 mM, 250�l",22900111,273,268
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,274,273
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,275,273
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,276,273
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,277,273
+"Reagent, Oligo, Gene 11F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900111,278,273
+"Reagent, Oligo, Gene 11R, Level 2, 200 mM, 272 �l",22900232,279,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,280,279
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,281,279
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,282,279
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,283,279
+"Reagent, Oligo, Gene 11R, Level 1, 2 mM, 250�l",22900231,284,279
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,285,284
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,286,284
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,287,284
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,288,284
+"Reagent, Oligo, Gene 11R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900231,289,284
+"Reagent, Oligo, Gene 12F, Level 2, 200 mM, 272 �l",22900122,290,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,291,290
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,292,290
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,293,290
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,294,290
+"Reagent, Oligo, Gene 12F, Level 1, 2 mM, 250�l",22900121,295,290
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,296,295
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,297,295
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,298,295
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,299,295
+"Reagent, Oligo, Gene 12F, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900121,300,295
+"Reagent, Oligo, Gene 12R, Level 2, 200 mM, 272 �l",22900242,301,44
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,302,301
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,303,301
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,304,301
+"Reagent, TE Buffer, Affymetrix, 500 ML",21400021,305,301
+"Reagent, Oligo, Gene 12R, Level 1, 2 mM, 250�l",22900241,306,301
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,307,306
+"Cap, Screw closure for 1.5 ml tubes, Natural",11100091,308,306
+"Tube, 1.5 ml, Bioplastics, without cap",11100011,309,306
+"Reagent, TE Buffer, Invitrogen, 100 ML",21400011,310,306
+"Reagent, Oligo, Gene 12R, Eurogentec, HPLC-purified, GMP-grade, 2 mmol",21900241,311,306
+"Water, Nuclease-free, 5 L",21400051,312,41
+"Bag, Blue, Three-side seal, 140 x 210 mm, 12 micron PET/12 micron Metalized Polyester/100 micron PE",21500001,313,41
+GC PCR Water,23400211,314,1
+"Label, Label E, Die-cut, Gloss PE, 1.3 � 0.5, 3"" core, 1000 pc/roll",21600052,315,314
+"Tube, 15 ml centrifuge, Corning, plug seal cap, Pack of 500",21100141,316,314
+"Water, Nuclease-free, 5 L",21400051,317,314

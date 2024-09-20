@@ -1,0 +1,90 @@
+ body {
+     background-color: #000c0e;
+     margin: 0;
+     padding: 0;
+ }
+
+ .chart-container {
+     height: 1200px;
+     position: relative;
+ }
+
+ .btn {
+     margin: 3px;
+     color: inherit;
+     text-transform: uppercase;
+     cursor: pointer;
+     border: 0;
+     border-radius: 0.125rem;
+     box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+     padding: 0.375rem 0.75rem;
+     font-size: 1rem;
+     line-height: 1.5;
+     border-radius: 0.25rem;
+ }
+
+ .btn-action-button {
+     text-transform: lowercase;
+     font-size: 11px !important;
+     border-radius: 7px !important;
+     color: white !important;
+     padding: 4px 5px !important;
+     background-color: #1d2643 !important;
+ }
+
+ .action-buttons {
+     position: absolute;
+     bottom: 10px;
+     right: 35px;
+ }
+
+ .svg-chart-container:before {
+     content: '';
+     position: absolute;
+     left: 0;
+     right: 0;
+     top: 0;
+     bottom: 0;
+     background: radial-gradient(circle at center, #04192b 0, #000b0e 100%);
+ }
+
+ .material-table {
+     width: 100%;
+     border-collapse: collapse;
+ }
+
+ .material-table th,
+ .material-table td {
+     border: 1px solid #ccc;
+     padding: 8px;
+ }
+
+ .material-table th {
+     background-color: #f0f0f0;
+     text-align: left;
+ }
+
+ .material-table tbody tr:nth-child(even) {
+     background-color: #f9f9f9;
+ }
+
+ .material-table tbody tr:hover {
+     background-color: #e0e0e0;
+ }
+
+ .material-table td:first-child {
+     width: 150px;
+     /* Adjust width as needed */
+ }
+
+ .material-table td {
+     padding-left: 20px;
+     /* Default padding for all cells */
+ }
+
+ /* Additional styles for nested rows */
+ .material-table .child-row td {
+     padding-left: 40px;
+     /* Adjust indent for child rows */
+ }

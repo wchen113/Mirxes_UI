@@ -1,0 +1,72 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 150px;
+}
+
+.search-box {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 20px;
+  z-index: 1000;
+}
+
+.date-pickers {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 20px;
+}
+
+#city-dropdown {
+  width: 100%;
+}
+
+.article-list {
+  margin-top: 20px;
+}
+
+.article-list h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.article-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.article-list li {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.article-list h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.article-list p {
+  margin: 5px 0;
+}
+
+.article-item {
+  cursor: pointer;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.article-item:hover {
+  background-color: #f9f9f9;
+}
+
+.article-details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+
